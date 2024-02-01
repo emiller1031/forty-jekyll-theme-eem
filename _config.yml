@@ -1,6 +1,6 @@
 # site settings
-title: week 4
-subtitle: elizabeth
+title: learning about jekyll themes
+subtitle: 
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
