@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'week 4'
+landing-title: 'learning about jekyll themes'
 description: null
 image: null
 author: null
